@@ -13,8 +13,8 @@ Small inplementation of neumorphic UI design
 ## Guide
 
 ```
-git clone https://github.com/ShekarMudaliyar/neumorphic_bank_expenses_ui.git
-cd neumorphic_bank_expenses_ui
+git clone https://github.com/MogenPty/scratch_2.0.git
+cd scratch_2.0
 flutter packages get
 flutter run
 ```

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:neumorphic_bank_expenses_ui/cardwidget.dart';
-import 'package:neumorphic_bank_expenses_ui/components/appbar.dart';
-import 'package:neumorphic_bank_expenses_ui/config/colors.dart';
-import 'package:neumorphic_bank_expenses_ui/config/size.dart';
-import 'package:neumorphic_bank_expenses_ui/expenseswidget.dart';
+import 'cardwidget.dart';
+import 'components/appbar.dart';
+import 'config/colors.dart';
+import 'config/size.dart';
+import 'expenseswidget.dart';
 
 class DashboardPage extends StatefulWidget {
   @override

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:neumorphic_bank_expenses_ui/components/card.dart';
-import 'package:neumorphic_bank_expenses_ui/config/size.dart';
+import 'components/card.dart';
+import 'config/size.dart';
 
 class CardWidget extends StatefulWidget {
   @override

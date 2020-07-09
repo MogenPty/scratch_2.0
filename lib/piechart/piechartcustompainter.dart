@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:neumorphic_bank_expenses_ui/config/colors.dart';
+import '../config/colors.dart';
 
 class PieChartCustomPainter extends CustomPainter {
   final List categories;

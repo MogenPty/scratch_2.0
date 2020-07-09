@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:neumorphic_bank_expenses_ui/config/colors.dart';
-import 'package:neumorphic_bank_expenses_ui/config/size.dart';
+import '../config/colors.dart';
+import '../config/size.dart';
 
 class BankCard extends StatelessWidget {
   @override

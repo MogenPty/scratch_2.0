@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:neumorphic_bank_expenses_ui/components/arrowbutton.dart';
-import 'package:neumorphic_bank_expenses_ui/config/colors.dart';
-import 'package:neumorphic_bank_expenses_ui/config/size.dart';
-import 'package:neumorphic_bank_expenses_ui/config/strings.dart';
-import 'package:neumorphic_bank_expenses_ui/piechart/piechart.dart';
+import 'components/arrowbutton.dart';
+import 'config/colors.dart';
+import 'config/size.dart';
+import 'config/strings.dart';
+import 'piechart/piechart.dart';
 
 class ExpensesWidget extends StatefulWidget {
   @override

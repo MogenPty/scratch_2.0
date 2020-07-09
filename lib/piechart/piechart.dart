@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:neumorphic_bank_expenses_ui/config/colors.dart';
-import 'package:neumorphic_bank_expenses_ui/config/size.dart';
-import 'package:neumorphic_bank_expenses_ui/config/strings.dart';
-import 'package:neumorphic_bank_expenses_ui/piechart/piechartcustompainter.dart';
+import '../config/colors.dart';
+import '../config/size.dart';
+import '../config/strings.dart';
+import 'piechartcustompainter.dart';
 
 class PieChart extends StatefulWidget {
   @override
